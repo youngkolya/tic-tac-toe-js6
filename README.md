@@ -17,3 +17,4 @@
 
 1. Перейти по ссылке https://youngkolya.github.io/tic-tac-toe-js6/
 2. Приступить к игре
+.
